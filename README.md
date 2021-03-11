@@ -15,15 +15,19 @@ Here are some ideas to get you started:
 -->
 <h1>Always Learning Something 👀</h1>
 
-<div style:"display: flex; flex-direction:row">
+<div style:"display: flex">
 
+ <div style:"width:40%">
+ 
   ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=LucasMS115&theme=tokyonight)
+ 
+ </div>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMS115&theme=tokyonight&hide=assembly)
   
 </div>
 
-<h2>Some of my favorites 💖</h2>
+<h2>Some of my favorites technologies and tools 💖</h2>
   
 <div style:"display: flex">
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>

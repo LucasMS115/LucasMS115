@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
+![](https://visitor-badge.laobi.icu/badge?page_id=LucasMS115.LucasMS115)
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=LucasMS115&theme=tokyonight)
 

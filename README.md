@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=LucasMS115&theme=tokyonight)
 
 <h2>Some of my favorites 💖</h2>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMS115&theme=tokyonight)
+
 <div style:"display: flex; justify-content: space-between">
   
 <div style:"display: flex">
@@ -35,14 +35,5 @@ Here are some ideas to get you started:
 </div>
 
 </div>
-
-<div style:"display: flex">
-
-  
-
-  
-  
-</div>
-
 
 

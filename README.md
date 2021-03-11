@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=LucasMS115&theme=tokyonight)
 
 <h2>Some of my favorites 💖</h2>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMS115&theme=tokyonight)
 <div style:"display: flex; justify-content: space-between">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMS115&theme=tokyonight)
+  
 <div style:"display: flex">
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>

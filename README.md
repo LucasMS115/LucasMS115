@@ -31,9 +31,11 @@ Here are some ideas to get you started:
 </div>
 
 <div style:"display: flex">
+
   ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=LucasMS115&theme=tokyonight)
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMS115&theme=tokyonight)
+  
 </div>
 
 

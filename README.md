@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h2>Some of my favorites 💖</h2>
 
-<div style:"display: flex; justify-content: space-between">
+<div style:"display: flex">
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMS115&theme=tokyonight)
   

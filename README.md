@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 <h2>Some of my favorites 💖</h2>
 
 <div style:"display: flex; justify-content: space-between">
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMS115&theme=tokyonight)
   
 <div style:"display: flex">
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>

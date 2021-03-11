@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=LucasMS115)
+
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuário&hide=html&layout=compact&theme=buefy" />  

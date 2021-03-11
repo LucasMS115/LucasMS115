@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <h1>Always Learning Something 👀</h1>
 
-<div style:"display: flex">
+<div style:"display: flex; flex-direction:row">
 
   ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=LucasMS115&theme=tokyonight)
   

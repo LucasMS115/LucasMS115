@@ -15,13 +15,12 @@ Here are some ideas to get you started:
 -->
 <h1>Always Learning Something 👀</h1>
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=LucasMS115&theme=tokyonight)
+<div style:"display: flex">
+  ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=LucasMS115&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMS115&theme=tokyonight)
+</div>
 
 <h2>Some of my favorites 💖</h2>
-
-<div style:"display: flex">
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMS115&theme=tokyonight)
   
 <div style:"display: flex">
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
@@ -34,8 +33,6 @@ Here are some ideas to get you started:
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
   <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-</div>
-
 </div>
 
 

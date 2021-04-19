@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
  <div style:"width:40%">
  
-  ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=LucasMS115&theme=tokyonight)
+ 
  
  </div>
   

@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   
 </div>
 
+
 <h2>Some of my favorites technologies and tools 💖</h2>
   
 <div style:"display: flex">
@@ -41,5 +42,6 @@ Here are some ideas to get you started:
   <img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
   <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
+
 
 

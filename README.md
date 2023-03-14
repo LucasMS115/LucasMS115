@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 
  <div style:"width:40%">
  
-   Hello! My name is Lucas Mendes Sales, I'm a Software Engineer at <a href="https://sobreuol.noticias.uol.com.br/" target="blank">UOL</a>
+   Hello! My name is Lucas Mendes Sales, I'm a Software Engineer at <a href="https://sobreuol.noticias.uol.com.br/" target="blank">UOL</a> (Github doesn't support target blank 😅), more specifically, I work in the programmatic media platform <a href="https://ads.uol.com/"> UOL Ads </a> as a full stack engineer.
+   I finished my bachelor's degree in Information Systems at the University of São Paulo (USP) last year (2022), and I'm looking to start a Masters in the same institution.
+   Including the years at the University I've been playing with Java and JavaScript for almost 5 years, and explored a bunch of other tech around them. Also, I'm dealing daily with a microsservices architecture using Linux, Jenkins, Spring & JUnit, Vue.JS & Chai, and sometimes, Docker, Kubernets and AWS since early 2022.
+   I feel confortable as a SE, happy that I found my way in life, and I'm always learning something! 🙃
  
  </div>
   

@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
  <div style:"width:40%">
  
-   ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=LucasMS115&theme=tokyonight)
+   Mussum Ipsum, cacilds vidis litro abertis. Em pé sem cair, deitado sem dormir, sentado sem cochilar e fazendo pose.Paisis, filhis, espiritis santis.Mais vale um bebadis conhecidiss, que um alcoolatra anonimis.Mé faiz elementum girarzis, nisi eros vermeio.
  
  </div>
   

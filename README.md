@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Always Learning Something 👀</h1>
+<h1>Hello friend... I'm Lucas! 👩‍💻</h1>
 
 <div style:"display: flex">
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<h2>Some of the technologies and tools I worked with!</h2>
+<h2>Some of the technologies and tools I worked with! ✨</h2>
   
 <div style:"display: flex">
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>

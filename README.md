@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
  <div style:"width:40%">
  
-   Mussum Ipsum, cacilds vidis litro abertis. Em pé sem cair, deitado sem dormir, sentado sem cochilar e fazendo pose.Paisis, filhis, espiritis santis.Mais vale um bebadis conhecidiss, que um alcoolatra anonimis.Mé faiz elementum girarzis, nisi eros vermeio.
+   Hello! My name is Lucas Mendes Sales, I'm a Software Engineer at <a href="https://sobreuol.noticias.uol.com.br/" target="blank">UOL</a>
  
  </div>
   

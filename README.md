@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
  <div style:"width:40%">
  
-   <p>Hello! My name is Lucas Mendes Sales, I'm a Software Engineer at <a href="https://sobreuol.noticias.uol.com.br/" target="blank">UOL</a> (Github doesn't support target blank 😅), more specifically, I work in the programmatic media platform <a href="https://ads.uol.com/"> UOL Ads </a> as a full stack engineer.</p>
+   <p>Hello! My name is Lucas Mendes Sales, I'm a Software Engineer at <a href="https://nubank.com.br/" target="blank">Nubank</a> 💜 (Github doesn't support target blank 😅).
    
-   <p>I finished my bachelor's degree in Information Systems at the University of São Paulo (USP) last year (2022), and I'm looking to start a Masters in the same institution.</p>
+   <p>I finished my bachelor's degree in Information Systems at the University of São Paulo (USP) last year (2022), and started a Master's Degree at the same institution.</p>
    
-   <p>Including the years at the University I've been playing with Java and JavaScript for almost 5 years, and explored a bunch of other tech around them. Also, I'm dealing daily with a microsservices architecture using Linux, Spring & JUnit, Vue.JS & Chai, and sometimes, Jenkins, Docker, Kubernets and AWS since early 2022.</p>
+   <p>Including my years at the University I've been playing with Java and JavaScript for almost 5 years and explored a bunch of other tech around them. Also, I've been dealing daily with a microservices architecture using Linux, Spring & JUnit, Vue.JS & Chai, and sometimes, Jenkins, Docker, Kubernetes, and AWS since early 2022.</p>
    
-  <p> I feel confortable as a SE, happy that I found my way in life, and I'm always learning something! 🙃</p>
+  <p> I feel comfortable as a SE, happy that I found my way in life, and I'm always learning something! 🙃</p>
  
  </div>
   
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img alt="Chai" src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red" />
   <img alt="Mocha" src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown" />
-  <img alt="Styled Compoents" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />

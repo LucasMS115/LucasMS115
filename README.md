@@ -21,7 +21,7 @@ Here are some ideas to get you started:
  
    <p>Hello! My name is Lucas Mendes Sales, I'm a Software Engineer at <a href="https://nubank.com.br/" target="blank">Nubank</a> 💜 (Github doesn't support target blank 😅).
    
-   <p>I finished my bachelor's degree in Information Systems at the University of São Paulo (USP) last year (2022), and started a Master's Degree at the same institution.</p>
+   <p>I finished my bachelor's degree in Information Systems at the University of São Paulo (USP) in 2022 and started a Master's Degree at the same institution.</p>
    
    <p>Including my years at the University I've been playing with Java and JavaScript for almost 5 years and explored a bunch of other tech around them. Also, I've dealt daily with a microservices architecture using Linux, Spring & JUnit, Vue.JS & Chai, and sometimes, Jenkins, Docker, Kubernetes, and AWS from early 2022 to mid-2023.</p>
 

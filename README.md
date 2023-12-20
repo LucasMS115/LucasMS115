@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hello friend, I'm Lucas! ... 👩‍💻</h1>
+<h1>Hello friend, I'm Lucas! ... 🧑🏽‍💻</h1>
 
 <div style:"display: flex">
 

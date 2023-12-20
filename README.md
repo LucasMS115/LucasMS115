@@ -23,7 +23,9 @@ Here are some ideas to get you started:
    
    <p>I finished my bachelor's degree in Information Systems at the University of São Paulo (USP) last year (2022), and started a Master's Degree at the same institution.</p>
    
-   <p>Including my years at the University I've been playing with Java and JavaScript for almost 5 years and explored a bunch of other tech around them. Also, I've been dealing daily with a microservices architecture using Linux, Spring & JUnit, Vue.JS & Chai, and sometimes, Jenkins, Docker, Kubernetes, and AWS since early 2022.</p>
+   <p>Including my years at the University I've been playing with Java and JavaScript for almost 5 years and explored a bunch of other tech around them. Also, I've dealt daily with a microservices architecture using Linux, Spring & JUnit, Vue.JS & Chai, and sometimes, Jenkins, Docker, Kubernetes, and AWS from early 2022 to mid-2023.</p>
+
+   <p>I'm currently studying architecture concepts and starting with the language Clojure!</p>
    
   <p> I feel comfortable as a SE, happy that I found my way in life, and I'm always learning something! 🙃</p>
  

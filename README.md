@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
  <div style:"width:40%">
  
-   <p>Hello! My name is Lucas Mendes Sales, I'm a Software Engineer at <a href="https://nubank.com.br/" target="blank">Nubank</a> 💜 (Github doesn't support target blank 😅).
+   <p>Hello! My name is Lucas Mendes Sales, I'm a Software Engineer with over 4 years of experience.
    
    <p>I finished my bachelor's degree in Information Systems at the University of São Paulo (USP) in 2022 and started a Master's Degree at the same institution.</p>
    
-   <p>Including my years at the University I've been playing with Java and JavaScript for almost 5 years and explored a bunch of other tech around them. Also, I've dealt daily with a microservices architecture using Linux, Spring & JUnit, Vue.JS & Chai, and sometimes, Jenkins, Docker, Kubernetes, and AWS from early 2022 to mid-2023.</p>
+   <p>I've dealt daily with a microservices architecture using Clojure, JavaScript, Java (Spring), Kafka, RabbitMQ, Unix, Vue.JS, Jenkins, GH Actions, Docker, Kubernetes, and AWS since early 2022.</p>
 
-   <p>I'm currently studying architecture concepts and starting with the language Clojure!</p>
+   <p>I'm currently studying architecture and behavioral concepts that should help me grow faster and be a Senior Engineer. </p>
    
   <p> I feel comfortable as a SE, happy that I found my way in life, and I'm always learning something! 🙃</p>
  

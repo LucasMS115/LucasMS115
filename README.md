@@ -28,12 +28,6 @@ Here are some ideas to get you started:
    <p>I'm currently studying architecture and behavioral concepts that should help me grow faster and be a Senior Engineer. </p>
    
   <p> I feel comfortable as a SE, happy that I found my way in life, and I'm always learning something! 🙃</p>
- 
- </div>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMS115&theme=tokyonight&hide=assembly)
-  
-</div>
 
 
 <h2>Some of the technologies and tools I worked with! ✨</h2>

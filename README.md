@@ -23,7 +23,7 @@ Here are some ideas to get you started:
    
    <p>I finished my bachelor's degree in Information Systems at the University of São Paulo (USP) in 2022 and started a Master's Degree at the same institution.</p>
    
-   <p>I've dealt daily with a microservices architecture using Clojure, JavaScript, Java (Spring), Kafka, RabbitMQ, Unix, Vue.JS, Jenkins, GH Actions, Docker, Kubernetes, and AWS since early 2022.</p>
+   <p>I've dealt daily with a microservices architecture using Clojure, JavaScript, Java (Spring), Kafka, RabbitMQ, Unix, Vue.JS, Jenkins, GH Actions, Docker, Kubernetes, and AWS since early 2022. Now I'm trying to learn Go in my free time :)</p>
 
    <p>I'm currently studying architecture and behavioral concepts that should help me grow faster and be a Senior Engineer. </p>
    
